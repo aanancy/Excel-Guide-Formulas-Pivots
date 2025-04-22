@@ -60,23 +60,6 @@ This project combines practical Excel skills in one place, featuring:
 
 ---
 
-## 🔧 Excel Functions & Features Covered
-
-### 📌 Core Functions  
-- `SUMIF`, `COUNTIF`, `SUMIFS`, `COUNTIFS`  
-- `AVERAGEIF`, `AVERAGEIFS`  
-- `MIN`, `MAX`, `LARGE`, `SORT`, `TAKE`  
-- `UNIQUE`, `COUNTA`, `TEXTJOIN`  
-
-### 📌 Lookup Functions  
-- `VLOOKUP`, `XLOOKUP`, `INDEX + MATCH`  
-- `XLOOKUP + MAX`, `IFERROR`, `FILTER + MONTH`  
-
-### 📌 New Dynamic Functions  
-- `FILTER`, `CHOOSECOLS`, `SORT`, `TEXTJOIN`  
-
----
-
 ## 📊 Pivot Tables & Charts
 
 Explore how to create pivot tables, pivot charts, and slicers to interactively analyze and summarize large datasets.
