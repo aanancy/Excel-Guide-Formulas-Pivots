@@ -71,19 +71,6 @@ Explore how to create pivot tables, pivot charts, and slicers to interactively a
 
 ---
 
-## 🧠 Challenges & Exercises
-
-Each challenge file includes:
-
-- ✅ **Problem Statement**  
-- 📊 **Dataset** or scenario  
-- ✔️ **Solution Sheet**  
-- 💡 **Explanation**  
-
-These exercises are based on real-life use cases — perfect for hands-on learning.
-
----
-
 ## 📈 Ideal For
 
 - Aspiring Data Analysts  
