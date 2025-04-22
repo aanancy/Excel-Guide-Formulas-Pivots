@@ -67,9 +67,8 @@ Explore how to create pivot tables, pivot charts, and slicers to interactively a
 
 ## 📘 How to Use
 
-1. Browse the folders in the repo (`/Formulas`, `/Challenges`, `/Dashboards`)  
-2. Download the Excel file(s) you're interested in  
-3. Open them in **Microsoft Excel** (or **Google Sheets** with limited feature compatibility)  
+1. Browse the repository to find the desired Excel tool.
+2. Download the spreadsheet and open it in **Microsoft Excel** or **Google Sheets**. 
 4. Explore the examples, solve challenges, and learn by doing!  
 
 ---
