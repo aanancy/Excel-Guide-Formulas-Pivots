@@ -1,6 +1,6 @@
 # 📊 Essential Excel Guide – Functions, Formulas, Pivots
 
-Welcome to my **📊 Essential Excel Guide – Functions, Formulas, Pivots** repository!  
+Welcome to my Essential Excel Guide – Functions, Formulas, Pivots** repository!  
 This portfolio showcases a variety of Excel-based tools, including formulas, pivot tables, real-world challenges, and interactive problem-solving exercises designed to help you master data analysis, build critical thinking skills, and apply concepts to real-life tasks using Excel.
 
 ---
@@ -44,8 +44,8 @@ This project combines practical Excel skills in one place, featuring:
 - Total Salary and Headcount by Department, Permanent Headcount – `SUMIF`, `COUNTIF`, `SUMIFS`, `COUNTIFS`
 - Average Salary by Department – `AVERAGEIF`, `AVERAGEIFS`
 - All Employees with More Than $100K Salary – `FILTER`, `CHOOSECOLS`
-- All Female Employees with More Than $100K Salary – `FILTER`, `*`
-- All Female Employees with More Than $100K Salary, Who Joined in 2020 or After – `FILTER`, `*`
+- All Female Employees with More Than $100K Salary – `FILTER`
+- All Female Employees with More Than $100K Salary, Who Joined in 2020 or After – `FILTER`
 - Lowest, Highest, and Top 5 Salary Values – `MIN`, `MAX`, `LARGE`, `SORT`, `TAKE`
 - Lowest, Highest, and Top 5 Salary Values by Gender – `MINIFS`, `MAXIFS`
 - List of All Departments – `UNIQUE`, `COUNTA`, `SORT`
