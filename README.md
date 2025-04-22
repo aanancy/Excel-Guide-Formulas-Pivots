@@ -99,7 +99,26 @@ Emp ID, First Name, Last Name, Gender, Department, Salary, Salary Bucket, Start 
 Explore how to create pivot tables, pivot charts, and slicers to interactively analyze and summarize large datasets.
 
 ---
+# Benefits and Limitations of Using Spreadsheets for Data Analysis
 
+## Benefits
+- ✅ **User-Friendly Interface**: Spreadsheets offer an intuitive table format, making it easy to organize and visualize data.
+- ✅ **Data Comparison**: Functions like `VLOOKUP` and `XLOOKUP` allow quick comparisons between different data fields.
+- ✅ **SQL Table Emulation**: Custom formulas can emulate relational data management on a small scale, mimicking SQL tables.
+- ✅ **Versatile Tools**: Built-in tools like pivot tables, charts, and formulas are great for basic data summarization and visualization.
+- ✅ **Ideal for Small Datasets**: Spreadsheets efficiently handle up to 20,000 records, making them suitable for straightforward data analysis.
+- ✅ **Accessibility**: Spreadsheets are widely available, easy to learn, and accessible to users of all skill levels.
+
+## Limitations
+- ✅ **Lack of Reproducibility**: Actions such as filtering, sorting, and applying formulas don't have a built-in log, making it difficult to reproduce the steps.
+- ✅ **Performance Issues**: Spreadsheets may struggle with large datasets (over 100,000 rows), leading to crashes or slow performance.
+- ✅ **Limited Scalability**: Not suitable for complex statistical modeling or machine learning tasks.
+- ✅ **Error-Prone**: Manual data entry increases the likelihood of inaccuracies and human errors.
+- ✅ **Collaboration Challenges**: Multiple users editing the same file can be cumbersome without cloud-based tools.
+- ✅ **Automation Constraints**: Spreadsheets lack the automation capabilities of programming languages like Python or R, limiting repeatability.
+- ✅ **Data Integration**: Merging data from multiple sources can be tedious without advanced tools like Power Query.
+
+---
 ## 🛠 Tools & Techniques Used
 
 - **Microsoft Excel** – Primary tool for all workbooks  
