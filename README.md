@@ -18,7 +18,7 @@ This repository serves as a central hub where I:
 
 ## 📁 Projects Included
 
-### 🔹 Challenges with Functions, Formulas, Pivots 
+### 🔹 Challenges with Functions, Formulas, Pivots
 
 ### 🎯 Overview  
 This project combines practical Excel skills in one place, featuring:
@@ -27,6 +27,36 @@ This project combines practical Excel skills in one place, featuring:
 - 💡 Real-world challenge scenarios with datasets, solutions, and guided explanations  
 - 📊 Pivot table and pivot chart exercises to dynamically summarize and visualize data  
 - 📈 Clean, professional dashboards using KPIs, slicers, conditional formatting, and charts  
+
+### 📦 Project 1: Pivot Tables & Charts
+**Dataset Attributes:** Sales Person, Geography, Product, Amount, Customers  
+**Tasks:**  
+1. Total Sales by Person  
+2. Top 10 Products by Sales (Amount)  
+3. Total Sales by Person and Geography  
+4. Total Sales by Person for Specific Geography  
+5. Top 5 Sales Persons by Geography (Pivot Charts)
+
+### 📦 Project 2: Functions & Formulas
+**Dataset Attributes:** Emp ID, First Name, Last Name, Gender, Department, Salary, Salary Bucket, Start Date, FTE, Employee Type, Work Location, Tenure, Work Type  
+**Business Questions and Functions Used:**
+
+- Total Salary and Headcount by Department, Permanent Headcount – `SUMIF`, `COUNTIF`, `SUMIFS`, `COUNTIFS`
+- Average Salary by Department – `AVERAGEIF`, `AVERAGEIFS`
+- All Employees with More Than $100K Salary – `FILTER`, `CHOOSECOLS`
+- All Female Employees with More Than $100K Salary – `FILTER`, `*`
+- All Female Employees with More Than $100K Salary, Who Joined in 2020 or After – `FILTER`, `*`
+- Lowest, Highest, and Top 5 Salary Values – `MIN`, `MAX`, `LARGE`, `SORT`, `TAKE`
+- Lowest, Highest, and Top 5 Salary Values by Gender – `MINIFS`, `MAXIFS`
+- List of All Departments – `UNIQUE`, `COUNTA`, `SORT`
+- List of All Departments in One Cell (Comma Separated) – `TEXTJOIN`
+- Employee Details Lookup – `VLOOKUP`, `INDEX + MATCH`
+- Employee Details Lookup (Alternative) – `XLOOKUP`, `IFERROR`
+- Complex Formula: Highest Salary Person – `XLOOKUP + MAX`
+- Complex Formula: All Employees Joined in March – `FILTER + MONTH`
+- Complex Formula: Female Employees with Monday Start – `FILTER`, `WEEKDAY`
+- Complex Formula: Department Report of Headcounts, Salaries, and % Diff from Overall Average – `UNIQUE`, `SUMIFS`, `COUNTIFS`, `#`, `CONDITIONAL FORMATTING`
+- Calculate Median Salary and Female Ratio – `MEDIAN`, `COUNTIFS`
 
 ---
 
@@ -89,3 +119,4 @@ Feel free to **fork this repo**, submit a **pull request**, or open an **issue**
 
 🔹 **Stay tuned — more Excel projects, dashboards, and advanced challenge sets coming soon!**  
 Made with 💙 by **Anansha Kc**
+
