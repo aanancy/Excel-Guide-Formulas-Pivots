@@ -110,13 +110,15 @@ Explore how to create pivot tables, pivot charts, and slicers to interactively a
 - ✅ **Accessibility**: Spreadsheets are widely available, easy to learn, and accessible to users of all skill levels.
 
 ## Limitations
-- ✅ **Lack of Reproducibility**: Actions such as filtering, sorting, and applying formulas don't have a built-in log, making it difficult to reproduce the steps.
+
+- ✅ **Data Integration**: Merging data from multiple sources can be tedious without advanced tools like Power Query.
 - ✅ **Performance Issues**: Spreadsheets may struggle with large datasets (over 100,000 rows), leading to crashes or slow performance.
 - ✅ **Limited Scalability**: Not suitable for complex statistical modeling or machine learning tasks.
 - ✅ **Error-Prone**: Manual data entry increases the likelihood of inaccuracies and human errors.
 - ✅ **Collaboration Challenges**: Multiple users editing the same file can be cumbersome without cloud-based tools.
 - ✅ **Automation Constraints**: Spreadsheets lack the automation capabilities of programming languages like Python or R, limiting repeatability.
-- ✅ **Data Integration**: Merging data from multiple sources can be tedious without advanced tools like Power Query.
+- ✅ **Lack of Reproducibility**: Actions such as filtering, sorting, and applying formulas don't have a built-in log, making it difficult to reproduce the steps.
+
 
 ---
 ## 🛠 Tools & Techniques Used
