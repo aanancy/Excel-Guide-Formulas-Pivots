@@ -1,9 +1,7 @@
-# 📊 Excel Guide – Formulas, Pivots & Dashboards
+# 📊 Essential Excel Guide – Functions, Formulas, Pivots
 
-Welcome to my **Excel Guide – Formulas and Pivots** repository!  
-This portfolio showcases a variety of Excel-based tools, real-world challenges, and dashboards designed to help you master formulas, data analysis, and visualization using pivot tables and charts.
-
-An Excel guide featuring formulas, pivot tables, real-world challenges, and interactive problem-solving exercises for developing critical thinking, applying concepts, and solving daily data analysis tasks.
+Welcome to my **📊 Essential Excel Guide – Functions, Formulas, Pivots** repository!  
+This portfolio showcases a variety of Excel-based tools, including formulas, pivot tables, real-world challenges, and interactive problem-solving exercises designed to help you master data analysis, build critical thinking skills, and apply concepts to real-life tasks using Excel.
 
 ---
 
@@ -20,7 +18,7 @@ This repository serves as a central hub where I:
 
 ## 📁 Projects Included
 
-### 🔹 Formulas, Challenges, Pivots & Dashboards
+### 🔹 Challenges with Functions, Formulas, Pivots 
 
 ### 🎯 Overview  
 This project combines practical Excel skills in one place, featuring:
@@ -68,8 +66,8 @@ Explore how to create pivot tables, pivot charts, and slicers to interactively a
 ## 📘 How to Use
 
 1. Browse the repository to find the desired Excel tool.
-2. Download the spreadsheet and open it in **Microsoft Excel** or **Google Sheets**. 
-4. Explore the examples, solve challenges, and learn by doing!  
+2. Download the spreadsheet and open it in **Microsoft Excel** or **Google Sheets**.
+3. Explore the examples, solve challenges, and learn by doing!  
 
 ---
 
