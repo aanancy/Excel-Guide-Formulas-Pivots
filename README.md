@@ -53,6 +53,8 @@ Sales Person, Geography, Product, Amount, Customers
 - **Top 5 Salespersons by Region (Pivot Charts)**  
   → Visualize top performers using column/bar pivot charts for regional comparison.
 
+![image](https://github.com/user-attachments/assets/a49c579d-68cd-40ed-9f2b-0abde4596902)
+
 
 ## 📦 Project 2: Employee Insights using Excel Functions & Dynamic Formulas
 
