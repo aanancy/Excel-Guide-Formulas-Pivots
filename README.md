@@ -1,6 +1,6 @@
 # 📊 Essential Excel Guide – Functions, Formulas, Pivots
 
-Welcome to my Essential Excel Guide – Functions, Formulas, Pivots** repository!  
+Welcome to my Essential Excel Guide – Functions, Formulas, Pivots repository!  
 This portfolio showcases a variety of Excel-based tools, including formulas, pivot tables, real-world challenges, and interactive problem-solving exercises designed to help you master data analysis, build critical thinking skills, and apply concepts to real-life tasks using Excel.
 
 ---
