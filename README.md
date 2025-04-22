@@ -25,38 +25,70 @@ This project combines practical Excel skills in one place, featuring:
 
 - 📄 Sheets for each function (`COUNTIF`, `XLOOKUP`, `FILTER`, etc.) with examples and practice problems  
 - 💡 Real-world challenge scenarios with datasets, solutions, and guided explanations  
-- 📊 Pivot table and pivot chart exercises to dynamically summarize and visualize data  
+- 📊 Pivot table and pivot chart exercises to dynamically summarise and visualise data  
 - 📈 Clean, professional dashboards using KPIs, slicers, conditional formatting, and charts  
 
-### 📦 Project 1: Pivot Tables & Charts
-**Dataset Attributes:** Sales Person, Geography, Product, Amount, Customers  
-**Tasks:**  
-1. Total Sales by Person  
-2. Top 10 Products by Sales (Amount)  
-3. Total Sales by Person and Geography  
-4. Total Sales by Person for Specific Geography  
-5. Top 5 Sales Persons by Geography (Pivot Charts)
+## 📦 Project 1: Sales Performance Analysis using Pivot Tables & Charts
 
-### 📦 Project 2: Functions & Formulas
-**Dataset Attributes:** Emp ID, First Name, Last Name, Gender, Department, Salary, Salary Bucket, Start Date, FTE, Employee Type, Work Location, Tenure, Work Type  
-**Business Questions and Functions Used:**
+### 🗂 Dataset Context
+This dataset focuses on chocolate product sales, capturing critical sales performance metrics across different regions and representatives.
 
-- Total Salary and Headcount by Department, Permanent Headcount – `SUMIF`, `COUNTIF`, `SUMIFS`, `COUNTIFS`
-- Average Salary by Department – `AVERAGEIF`, `AVERAGEIFS`
-- All Employees with More Than $100K Salary – `FILTER`, `CHOOSECOLS`
-- All Female Employees with More Than $100K Salary – `FILTER`
-- All Female Employees with More Than $100K Salary, Who Joined in 2020 or After – `FILTER`
-- Lowest, Highest, and Top 5 Salary Values – `MIN`, `MAX`, `LARGE`, `SORT`, `TAKE`
-- Lowest, Highest, and Top 5 Salary Values by Gender – `MINIFS`, `MAXIFS`
-- List of All Departments – `UNIQUE`, `COUNTA`, `SORT`
-- List of All Departments in One Cell (Comma Separated) – `TEXTJOIN`
-- Employee Details Lookup – `VLOOKUP`, `INDEX + MATCH`
-- Employee Details Lookup (Alternative) – `XLOOKUP`, `IFERROR`
-- Complex Formula: Highest Salary Person – `XLOOKUP + MAX`
-- Complex Formula: All Employees Joined in March – `FILTER + MONTH`
-- Complex Formula: Female Employees with Monday Start – `FILTER`, `WEEKDAY`
-- Complex Formula: Department Report of Headcounts, Salaries, and % Diff from Overall Average – `UNIQUE`, `SUMIFS`, `COUNTIFS`, `#`, `CONDITIONAL FORMATTING`
-- Calculate Median Salary and Female Ratio – `MEDIAN`, `COUNTIFS`
+### 📊 Key Attributes
+Sales Person, Geography, Product, Amount, Customers
+
+### 🔍 Objectives & Pivot Tasks
+
+- **Total Sales by Sales Person**  
+  → Analyse individual performance across all product lines.
+
+- **Top 10 Products by Sales (Amount)**  
+  → Use pivot filtering and sorting to rank best-selling products.
+
+- **Sales Breakdown by Person and Geography**  
+  → Identify geographical performance distribution per sales rep.
+
+- **Sales Performance for a Specific Region**  
+  → Apply slicers and filters to analyse a focused region.
+
+- **Top 5 Salespersons by Region (Pivot Charts)**  
+  → Visualize top performers using column/bar pivot charts for regional comparison.
+
+
+## 📦 Project 2: Employee Insights using Excel Functions & Dynamic Formulas
+
+### 🗂 Dataset Context
+This HR dataset covers employee details from various departments and contract types, ideal for analysing workforce structure, compensation, and diversity.
+
+### 📊 Key Attributes
+Emp ID, First Name, Last Name, Gender, Department, Salary, Salary Bucket, Start Date, FTE, Employee Type, Work Location, Tenure, Work Type
+
+### 🎯 Business Questions Answered with Excel Functions
+
+| 🔹 Goal | 🧠 Formula(s) Used |
+|--------|---------------------|
+| Total Salary and Headcount by Department | `SUMIF`, `COUNTIF`, `SUMIFS`, `COUNTIFS` |
+| Average Salary by Department | `AVERAGEIF`, `AVERAGEIFS` |
+| Filter Employees Earning Above $100K | `FILTER`, `CHOOSECOLS` |
+| Filter Female Employees Earning Above $100K | `FILTER` |
+| Female Employees Earning Above $100K & Joined After 2020 | `FILTER`, `YEAR` |
+| Highest, Lowest & Top 5 Salary Values | `MIN`, `MAX`, `LARGE`, `SORT`, `TAKE` |
+| Salary Ranges by Gender | `MINIFS`, `MAXIFS` |
+| List of All Unique Departments | `UNIQUE`, `COUNTA`, `SORT` |
+| Comma-Separated List of Departments in One Cell | `TEXTJOIN` |
+| Lookup Employee Details | `VLOOKUP`, `INDEX + MATCH` |
+| Lookup with Error Handling | `XLOOKUP`, `IFERROR` |
+| Identify Highest Paid Employee | `XLOOKUP + MAX` |
+| Employees Who Joined in March | `FILTER + MONTH` |
+| Female Employees with Monday Start Dates | `FILTER`, `WEEKDAY` |
+| Department Report – Headcount, Salary, and % Difference from Overall Average | `UNIQUE`, `SUMIFS`, `COUNTIFS`, `CONDITIONAL FORMATTING` |
+| Calculate Median Salary & Female-to-Male Ratio | `MEDIAN`, `COUNTIFS` |
+
+### 📌 Special Highlights
+
+- Complex **nested formulas** for dynamic, condition-based outputs  
+- Use of **Conditional Formatting** to flag salary gaps and gender diversity indicators  
+- Rich **data visualisation** using embedded charts and department-wise KPI summaries
+
 
 ---
 
@@ -73,7 +105,8 @@ Explore how to create pivot tables, pivot charts, and slicers to interactively a
 - **Pivot Tables & Charts** – For data summarization and reporting  
 - **Conditional Formatting** – To highlight patterns and outliers  
 - **Dynamic Arrays** – Using functions like `FILTER`, `UNIQUE`, etc.  
-
+- **Slicers** – For interactive data filtering  
+- **Grouping** – To categorize data for detailed analysis
 ---
 
 ## 📘 How to Use
